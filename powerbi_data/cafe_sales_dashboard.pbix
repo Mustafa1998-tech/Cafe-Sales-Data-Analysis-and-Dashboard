@@ -1,0 +1,16 @@
+{
+        "version": "1.0",
+        "sections": [
+            {
+                "displayName": "Cafe Sales Analysis",
+                "position": {"x": 0, "y": 0, "z": 0},
+                "visualContainers": [
+                    {
+                        "name": "visualContainer1",
+                        "filters": {},
+                        "config": "{"name":"visualContainer1","layouts":[{"id":0,"position":{"x":0,"y":0,"z":0},"width":6,"height":6}],"config":"{\"name\":\"visualContainer1\",\"singleVisual\":{\"visualType\":\"tableEx\",\"projections\":{\"Values\":[{\"queryRef\":\"Product\"},{\"queryRef\":\"Total Spent\"}]}}}"}"
+                    }
+                ]
+            }
+        ]
+    }

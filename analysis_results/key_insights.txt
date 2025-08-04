@@ -1,0 +1,7 @@
+=== Key Insights ===
+
+• Highest Revenue Day: Monday ($4,377.00)
+• Busiest Day: Monday (493 transactions)
+• Top Selling Item: Salad ($6,650.00)
+• Most Popular Payment: Digital Wallet (34.7% of transactions)
+• Most Common Location: In-store (50.0% of transactions)
